@@ -139,14 +139,3 @@ python notebooks/build_notebook.py
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-## Résumé CV (2-3 lignes)
-
-> **Analyse spatio-temporelle du terrorisme mondial (GTD, 181 k incidents)** —
-> Python, pandas, scikit-learn, Plotly. Nettoyage de données massivement
-> lacunaires, indice de pression composite par pays, **clustering** de profils
-> nationaux (K-Means) et **modèles prédictifs** de létalité/sévérité sur split
-> temporel — avec une section dédiée aux biais de reporting et aux enjeux
-> éthiques.
