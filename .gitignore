@@ -1,0 +1,19 @@
+# The GTD is NOT redistributable (START/UMD licence) and is large (~156 MB).
+# Neither the raw CSV nor the parquet cache is versioned. Place the official
+# Kaggle CSV in data/raw/ or ~/Downloads/ and run `python src/data.py`.
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+cluster,n_countries,example_countries,distinctive_traits,lethality_rate,suicide_rate
+0,13,"Sudan, Democratic Republic of the Congo, Mali, Uganda",mean_severity(+7.16); lethality_rate(+0.26); tgt_Private Citizens & Property(+0.16),0.6239495372289207,0.04454910235890442
+1,35,"Spain, United States, France, Chile",tgt_Business(+0.08); atk_Facility/Infrastructure Attack(+0.08); atk_Bombing/Explosion(+0.05),0.15434394907622928,0.004847887882245862
+2,63,"Iraq, Pakistan, Afghanistan, India",lethality_rate(+0.06); atk_Armed Assault(+0.03); tgt_Military(+0.03),0.427070919442006,0.019322200917763797
